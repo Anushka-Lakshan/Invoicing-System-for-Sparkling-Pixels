@@ -3,6 +3,10 @@
 
 This project is a **fully featured Invoice system** developed for Sparkling Pixels Photography Studio. It is built using **HTML, CSS, JavaScript, PHP**, and **SQLite** as a web project. After development, it is converted into a desktop application using the [**PHP DESKTOP**](https://github.com/cztomczak/phpdesktop) library.
 
+![Cover](readme_imgs/cover.jpg)
+
+<hr>
+
 ## Customer Requirements
 
 - The main requirement is **generating custom-designed modern-looking invoices.**
