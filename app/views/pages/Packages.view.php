@@ -21,7 +21,7 @@
 
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">All Customers</h5>
+                <h5 class="card-title">All Packages</h5>
                 <div class="table-responsive">
                     <table id="DataTable" class="table table-striped table-bordered">
                         <thead>
