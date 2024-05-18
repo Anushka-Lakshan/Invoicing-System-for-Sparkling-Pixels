@@ -54,25 +54,25 @@ The user interface is designed adhering to UI/UX principles and follows a clean,
 ## Project Screenshots
 
 PDF invoice design (Actual generated invoice)
-![Invoice](readme_imgs/0.JPG)
+![Invoice](readme_imgs/0.jpg)
 
 Dashboard
-![Dashboard](readme_imgs/1.JPG)
+![Dashboard](readme_imgs/1.jpg)
 
 Manage Clients
-![Manage Clients](readme_imgs/2.JPG)
+![Manage Clients](readme_imgs/2.jpg)
 
 Manage Packages
-![Manage Packages](readme_imgs/3.JPG)
+![Manage Packages](readme_imgs/3.jpg)
 
 Create Invoice
-![Create Invoice](readme_imgs/4.JPG)
+![Create Invoice](readme_imgs/4.jpg)
 
 Tracking Payments
-![Tracking Payments](readme_imgs/5.JPG)
+![Tracking Payments](readme_imgs/5.jpg)
 
 Backup and Restore
-![Backup and Restore](readme_imgs/6.JPG)
+![Backup and Restore](readme_imgs/6.jpg)
 
 ## Getting Started
 
